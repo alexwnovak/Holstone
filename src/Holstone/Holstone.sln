@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holstone.Console", "Holston
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holstone.ServerCore", "Holstone.ServerCore\Holstone.ServerCore.csproj", "{72E58F88-F9A7-489A-898A-EEF48302A188}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holstone.ServerCore.UnitTests", "Holstone.ServerCore.UnitTests\Holstone.ServerCore.UnitTests.csproj", "{B63F4294-6C87-4B42-BCFF-C39A8630C580}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{72E58F88-F9A7-489A-898A-EEF48302A188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72E58F88-F9A7-489A-898A-EEF48302A188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72E58F88-F9A7-489A-898A-EEF48302A188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63F4294-6C87-4B42-BCFF-C39A8630C580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63F4294-6C87-4B42-BCFF-C39A8630C580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63F4294-6C87-4B42-BCFF-C39A8630C580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63F4294-6C87-4B42-BCFF-C39A8630C580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
